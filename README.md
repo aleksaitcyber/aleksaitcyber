@@ -1,16 +1,64 @@
-## Hi there 👋
+# Aleksa – Systems & Cyber Engineering
+💻 Engineering Reliable Systems | Switzerland  
+🚀 Open to remote freelance projects
 
-<!--
-**aleksaitcyber/aleksaitcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About
+I’m a Systems & Security Engineer based in Switzerland, focused on building reliable infrastructure and automation for modern IT environments.  
+My work blends system administration, cloud architecture and cybersecurity—delivering resilient, efficient, and secure digital systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✅ Services
+I provide engineering support with measurable results:
+
+- Infrastructure design & system deployment (Linux/Windows)
+- Secure server setup and network hardening
+- Automation (Python, Bash, PowerShell)
+- Remote IT operations & troubleshooting
+- Security auditing and environment hardening
+- AWS-based infrastructure setup (EC2, IAM, VPC, S3)
+- Private homelab and network build consulting
+
+---
+
+### 🧠 Tech Stack
+
+| Area | Tools |
+|------|-------|
+| **Systems** | Linux (Debian/Ubuntu/Kali), Windows Server, Active Directory |
+| **Networking** | TCP/IP, DNS, DHCP, VLAN, VPN, Firewall concepts |
+| **Automation** | Python, Bash, PowerShell, Git |
+| **Cloud** | AWS (EC2, IAM, S3, VPC) |
+| **Virtualization** | VMware, VirtualBox |
+| **Security** | Nmap, Wireshark, Burp Suite, Metasploit, Hashcat |
+| **Containers** | Docker |
+
+---
+
+### 🔧 Focus Areas
+- Systems reliability & infrastructure resilience  
+- Secure deployment and configuration  
+- Hybrid cloud environments (on-prem + AWS)  
+- Automation for system administration  
+- Practical security integration in engineering workflows  
+
+---
+
+### 📈 Current Engineering Objectives
+- Infrastructure automation templates (Ansible/Python)
+- Reliable VPC architecture on AWS
+- Automated backup and monitoring scripts
+- Advanced networking and reverse proxy setups
+- Security scanning automation
+
+---
+
+### 📫 Contact
+📧 Email: **aleksaitcyber@gmail.com**  
+🔗 GitHub: **github.com/aleksaitcyber**
+
+---
+
+> Precision • Reliability • Execution
