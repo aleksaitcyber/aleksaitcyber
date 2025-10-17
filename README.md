@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/aleksaitcyber/-assets-banner-placeholder.txt/blob/main/banner.png" alt="banner">
 </p>
+
 # Aleksa – Systems & Cyber Engineering
 💻 Engineering Reliable Systems | Switzerland  
 🚀 Open to remote freelance projects
