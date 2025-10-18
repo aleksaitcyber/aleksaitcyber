@@ -60,7 +60,7 @@ I provide engineering support with measurable results:
 ---
 
 ### 📫 Contact
-📧 Email: **aleksaitcyber@gmail.com**  
+📧 Email: **contact@aleksaitcyber.com**  
 🔗 GitHub: **github.com/aleksaitcyber**
 
 ---
