@@ -61,9 +61,9 @@ I provide engineering support with measurable results:
 
 ### 📫 Contact
 📧 Email: **contact@aleksaitcyber.com**  
-🔗 GitHub: **github.com/aleksaitcyber**
+🔗 GitHub: **github.com/aleksaitcyber**  
 🌐 Website: **www.aleksaitcyber.com**
 
 ---
 
-> Precision • Reliability • Execution
+> Structure • Reliability • Security
