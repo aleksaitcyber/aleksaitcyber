@@ -60,10 +60,10 @@ I provide engineering support with measurable results:
 ---
 
 ### 📫 Contact
-📧 Email: **contact@aleksaitcyber.com**  
+🌐 Website: **www.aleksaitcyber.com**  
 🔗 GitHub: **github.com/aleksaitcyber**  
-🌐 Website: **www.aleksaitcyber.com**
-
+📧 Email: **contact@aleksaitcyber.com**
+ 
 ---
 
 > Structure • Reliability • Security
